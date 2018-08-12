@@ -1,3 +1,8 @@
+修改SSH Port
+============
+>1. sed -i '$d' fileName  删除最后一行
+>2. echo “Port 22” >> /etc/ssh/sshd_config  修改SSH Port端口
+
 安装ss服务器
 ============
 >1. sudo apt-get install python-pip
