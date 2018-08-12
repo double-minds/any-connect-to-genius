@@ -5,7 +5,7 @@
 
 安装ss服务器
 ============
->1. sudo apt-get install python-pip
+>1. sudo apt-get -y install python-pip
 >2. sudo pip install shadowsocks
 
 启动服务器
